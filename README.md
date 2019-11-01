@@ -29,15 +29,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+document object modek
 2. What is an event?
-
+user interaction with the page
 3. What is an event listener?
-
+code that listens for an event to occur such as a click or mouse over to trigger the action of an event
 4. Why would we convert a NodeList into an Array?
-
+to use different array methods
 5. What is a component?
-
+reusable code that can accept data from a source
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
@@ -51,11 +51,11 @@ Your finished project must include all of the following requirements:
 
 * [x] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
+* [x] Following the instructions in the `Header/index.js` file, create the Header component. 
 
-* [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
+* [x] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
-* [ ] Following the instructions in the `Cards/index.js` file, create individual Cards components.
+* [x] Following the instructions in the `Cards/index.js` file, create individual Cards components.
 
 ## Stretch Problems
 
